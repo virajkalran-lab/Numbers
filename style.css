@@ -10,8 +10,10 @@
     background-color: rgb(72, 166, 230);
     color: whitesmoke;
     border-radius: 15px;
+    border: solid 2px
 }
 #btns {
     text-align: center;
     border: solid 2px
 }
+
